@@ -1,0 +1,7 @@
+Name,E-mail address,Accepted?,Coach name,Native language
+Alice,alice@example.com,Yes,Magda,English
+Eve,eve@example.com,Yes,Anna,Polish
+Mary,mary@example.com,No,,English
+Peggy,peggy@example.com,No,,English
+Sybil,sybil@example.com,Yes,Hannah,German
+Wendy,wendy@example.com,No,,English
